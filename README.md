@@ -1,13 +1,9 @@
-# CIS248 zyLAB Chapter 11
+# CIS210 zyLAB Chapter 1
 ## SPRING 2021 #
 
 - Name:
 - Date:
 - zyLAB Challenges to be completed:
-  - 11.09 - Pet Information
-  - 11.10 - Instrument Information
-  - 11.11 - Course Information
-  - 11.12 - Book Information
-  - 11.13 - Plant Information
-
+  - 1.01 - Check for sorted array (Java)
+  - 1.02 - Check for Sorted array (Python)
   
