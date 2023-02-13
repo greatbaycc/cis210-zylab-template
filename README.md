@@ -1,6 +1,8 @@
-# CIS210 Data Structures Project
-## SPRING 2023 #
+#CIS210 Data Structures Project
+##SPRING 2023
 
-- Assignment: 
+###Assignment: Chapter 1 zyLab
+
+
 - Name:
 - Date:
